@@ -1,5 +1,5 @@
-# MaterialDesignIcons-CSharp-Consts
-This SCSS part file allows you to use [MaterialDesignIcons](https://github.com/Templarian/MaterialDesign)
+# MaterialDesignIcons-C#-Consts
+This C# class allows you to use [MaterialDesignIcons](https://github.com/Templarian/MaterialDesign)
 project directly from your C# code: benefit from autocomplete and avoid typos.
 
 ![MaterialDesignIcons-CSharp-Consts](doc/screenshot.gif)
