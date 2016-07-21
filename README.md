@@ -11,26 +11,28 @@ Add the nuget package as a depency in your project:
 
 Each `Mdi.*` const contains its icon's corresponding `mdi` class as value:
 
-    public const string FlipToFront = "mdi-flip-to-front";
-    public const string Floppy = "mdi-floppy";
-    public const string Flower = "mdi-flower";
-    public const string Folder = "mdi-folder";
-    public const string FolderAccount = "mdi-folder-account";
-    public const string FolderDownload = "mdi-folder-download";
+```csharp
+public const string FlipToFront = "mdi-flip-to-front";
+public const string Floppy = "mdi-floppy";
+public const string Flower = "mdi-flower";
+public const string Folder = "mdi-folder";
+public const string FolderAccount = "mdi-folder-account";
+public const string FolderDownload = "mdi-folder-download";
+```
 
 ### Example
 For example, you could use it in your own menu system:
 
 ```csharp
-# MenuItem.cs
+// MenuItem.cs
 public MenuItem(string title, string href, string icon) { ... }
 
-# NavigationHelper.cs
+// NavigationHelper.cs
 this.items.add(new MenuItem("Home", "#", Mdi.HomeVariant));
 ```
 
 ```html
-# _Menu.cshtml
+<!-- _Menu.cshtml -->
 <a href="@menuItem.Href">
     <i class="mdi @menuItem.Icon"></i>
     @menuItem.Title
