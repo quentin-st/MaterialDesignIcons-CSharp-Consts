@@ -6,7 +6,7 @@
         <title>MaterialDesignIcons-CSharp-Consts</title>
         <authors>Quentin Stoeckel</authors>
         <owners>Quentin Stoeckel</owners>
-        <licenseUrl>https://raw.githubusercontent.com/MrMitch/WPF-Loaders/master/MrMitch.Loaders/LICENSE.txt</licenseUrl>
+        <licenseUrl>https://github.com/chteuchteu/MaterialDesignIcons-CSharp-Consts/blob/master/LICENSE.md</licenseUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <projectUrl>https://github.com/chteuchteu/MaterialDesignIcons-CSharp-Consts</projectUrl>
         <description>MaterialDesignIcons as C# consts</description>
