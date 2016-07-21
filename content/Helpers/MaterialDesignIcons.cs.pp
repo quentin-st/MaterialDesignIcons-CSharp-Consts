@@ -1,4 +1,4 @@
-namespace Mdi
+namespace $rootnamespace$.Helpers
 {
     /**
      * MaterialDesignIcons-C#-Consts
