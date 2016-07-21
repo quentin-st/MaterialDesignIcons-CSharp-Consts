@@ -7,7 +7,7 @@ import re
 
 icon_prefix = 'mdi-'
 input_file_uri = 'https://raw.githubusercontent.com/Templarian/MaterialDesign-Webfont/master/scss/_variables.scss'
-output_file = 'generated/MaterialDesignIcons.cs.pp'
+output_file = 'content/Helpers/MaterialDesignIcons.cs.pp'
 output_prefix = """namespace $rootnamespace$.Helpers
 {
     /**
