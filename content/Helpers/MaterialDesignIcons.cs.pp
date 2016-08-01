@@ -3,6 +3,8 @@ namespace $rootnamespace$.Helpers
     /**
      * MaterialDesignIcons-C#-Consts
      * https://github.com/chteuchteu/MaterialDesignIcons-CSharp-Consts
+     *
+     * MaterialDesignIcons v1.6.50
      */
     public abstract class Mdi
     {
