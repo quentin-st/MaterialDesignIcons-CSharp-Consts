@@ -4,7 +4,7 @@ namespace $rootnamespace$.Helpers
      * MaterialDesignIcons-C#-Consts
      * https://github.com/chteuchteu/MaterialDesignIcons-CSharp-Consts
      *
-     * MaterialDesignIcons v1.6.50
+     * MaterialDesignIcons v1.7.12
      */
     public abstract class Mdi
     {
@@ -49,6 +49,7 @@ namespace $rootnamespace$.Helpers
         public const string AlarmMultiple = "mdi-alarm-multiple";
         public const string AlarmOff = "mdi-alarm-off";
         public const string AlarmPlus = "mdi-alarm-plus";
+        public const string AlarmSnooze = "mdi-alarm-snooze";
         public const string Album = "mdi-album";
         public const string Alert = "mdi-alert";
         public const string AlertBox = "mdi-alert-box";
@@ -132,9 +133,11 @@ namespace $rootnamespace$.Helpers
         public const string Autorenew = "mdi-autorenew";
         public const string AvTimer = "mdi-av-timer";
         public const string Baby = "mdi-baby";
+        public const string BabyBuggy = "mdi-baby-buggy";
         public const string Backburger = "mdi-backburger";
         public const string Backspace = "mdi-backspace";
         public const string BackupRestore = "mdi-backup-restore";
+        public const string Bandcamp = "mdi-bandcamp";
         public const string Bank = "mdi-bank";
         public const string Barcode = "mdi-barcode";
         public const string BarcodeScan = "mdi-barcode-scan";
@@ -170,6 +173,7 @@ namespace $rootnamespace$.Helpers
         public const string BatteryPositive = "mdi-battery-positive";
         public const string BatteryUnknown = "mdi-battery-unknown";
         public const string Beach = "mdi-beach";
+        public const string Beaker = "mdi-beaker";
         public const string Beats = "mdi-beats";
         public const string Beer = "mdi-beer";
         public const string Behance = "mdi-behance";
@@ -204,6 +208,7 @@ namespace $rootnamespace$.Helpers
         public const string BlurLinear = "mdi-blur-linear";
         public const string BlurOff = "mdi-blur-off";
         public const string BlurRadial = "mdi-blur-radial";
+        public const string Bomb = "mdi-bomb";
         public const string Bone = "mdi-bone";
         public const string Book = "mdi-book";
         public const string BookMinus = "mdi-book-minus";
@@ -234,6 +239,7 @@ namespace $rootnamespace$.Helpers
         public const string BorderStyle = "mdi-border-style";
         public const string BorderTop = "mdi-border-top";
         public const string BorderVertical = "mdi-border-vertical";
+        public const string BowTie = "mdi-bow-tie";
         public const string Bowl = "mdi-bowl";
         public const string Bowling = "mdi-bowling";
         public const string Box = "mdi-box";
@@ -273,6 +279,8 @@ namespace $rootnamespace$.Helpers
         public const string CalendarMultiple = "mdi-calendar-multiple";
         public const string CalendarMultipleCheck = "mdi-calendar-multiple-check";
         public const string CalendarPlus = "mdi-calendar-plus";
+        public const string CalendarQuestion = "mdi-calendar-question";
+        public const string CalendarRange = "mdi-calendar-range";
         public const string CalendarRemove = "mdi-calendar-remove";
         public const string CalendarText = "mdi-calendar-text";
         public const string CalendarToday = "mdi-calendar-today";
@@ -286,6 +294,7 @@ namespace $rootnamespace$.Helpers
         public const string CamcorderBoxOff = "mdi-camcorder-box-off";
         public const string CamcorderOff = "mdi-camcorder-off";
         public const string Camera = "mdi-camera";
+        public const string CameraBurst = "mdi-camera-burst";
         public const string CameraEnhance = "mdi-camera-enhance";
         public const string CameraFront = "mdi-camera-front";
         public const string CameraFrontVariant = "mdi-camera-front-variant";
@@ -421,10 +430,12 @@ namespace $rootnamespace$.Helpers
         public const string CodeParentheses = "mdi-code-parentheses";
         public const string CodeString = "mdi-code-string";
         public const string CodeTags = "mdi-code-tags";
+        public const string CodeTagsCheck = "mdi-code-tags-check";
         public const string Codepen = "mdi-codepen";
         public const string Coffee = "mdi-coffee";
         public const string CoffeeToGo = "mdi-coffee-to-go";
         public const string Coin = "mdi-coin";
+        public const string Coins = "mdi-coins";
         public const string Collage = "mdi-collage";
         public const string ColorHelper = "mdi-color-helper";
         public const string Comment = "mdi-comment";
@@ -462,14 +473,17 @@ namespace $rootnamespace$.Helpers
         public const string Copyright = "mdi-copyright";
         public const string Counter = "mdi-counter";
         public const string Cow = "mdi-cow";
+        public const string Creation = "mdi-creation";
         public const string CreditCard = "mdi-credit-card";
         public const string CreditCardMultiple = "mdi-credit-card-multiple";
         public const string CreditCardOff = "mdi-credit-card-off";
+        public const string CreditCardPlus = "mdi-credit-card-plus";
         public const string CreditCardScan = "mdi-credit-card-scan";
         public const string Crop = "mdi-crop";
         public const string CropFree = "mdi-crop-free";
         public const string CropLandscape = "mdi-crop-landscape";
         public const string CropPortrait = "mdi-crop-portrait";
+        public const string CropRotate = "mdi-crop-rotate";
         public const string CropSquare = "mdi-crop-square";
         public const string Crosshairs = "mdi-crosshairs";
         public const string CrosshairsGps = "mdi-crosshairs-gps";
@@ -489,6 +503,7 @@ namespace $rootnamespace$.Helpers
         public const string CurrencyRub = "mdi-currency-rub";
         public const string CurrencyTry = "mdi-currency-try";
         public const string CurrencyUsd = "mdi-currency-usd";
+        public const string CurrencyUsdOff = "mdi-currency-usd-off";
         public const string CursorDefault = "mdi-cursor-default";
         public const string CursorDefaultOutline = "mdi-cursor-default-outline";
         public const string CursorMove = "mdi-cursor-move";
@@ -503,6 +518,7 @@ namespace $rootnamespace$.Helpers
         public const string DecimalDecrease = "mdi-decimal-decrease";
         public const string DecimalIncrease = "mdi-decimal-increase";
         public const string Delete = "mdi-delete";
+        public const string DeleteCircle = "mdi-delete-circle";
         public const string DeleteForever = "mdi-delete-forever";
         public const string DeleteSweep = "mdi-delete-sweep";
         public const string DeleteVariant = "mdi-delete-variant";
@@ -511,6 +527,7 @@ namespace $rootnamespace$.Helpers
         public const string DesktopMac = "mdi-desktop-mac";
         public const string DesktopTower = "mdi-desktop-tower";
         public const string Details = "mdi-details";
+        public const string DeveloperBoard = "mdi-developer-board";
         public const string Deviantart = "mdi-deviantart";
         public const string Dialpad = "mdi-dialpad";
         public const string Diamond = "mdi-diamond";
@@ -534,10 +551,14 @@ namespace $rootnamespace$.Helpers
         public const string DisqusOutline = "mdi-disqus-outline";
         public const string Division = "mdi-division";
         public const string DivisionBox = "mdi-division-box";
+        public const string Dna = "mdi-dna";
         public const string Dns = "mdi-dns";
+        public const string DoNotDisturb = "mdi-do-not-disturb";
+        public const string DoNotDisturbOff = "mdi-do-not-disturb-off";
         public const string Domain = "mdi-domain";
         public const string DotsHorizontal = "mdi-dots-horizontal";
         public const string DotsVertical = "mdi-dots-vertical";
+        public const string Douban = "mdi-douban";
         public const string Download = "mdi-download";
         public const string Drag = "mdi-drag";
         public const string DragHorizontal = "mdi-drag-horizontal";
@@ -566,7 +587,9 @@ namespace $rootnamespace$.Helpers
         public const string EmailVariant = "mdi-email-variant";
         public const string Emoticon = "mdi-emoticon";
         public const string EmoticonCool = "mdi-emoticon-cool";
+        public const string EmoticonDead = "mdi-emoticon-dead";
         public const string EmoticonDevil = "mdi-emoticon-devil";
+        public const string EmoticonExcited = "mdi-emoticon-excited";
         public const string EmoticonHappy = "mdi-emoticon-happy";
         public const string EmoticonNeutral = "mdi-emoticon-neutral";
         public const string EmoticonPoop = "mdi-emoticon-poop";
@@ -653,6 +676,7 @@ namespace $rootnamespace$.Helpers
         public const string Flash = "mdi-flash";
         public const string FlashAuto = "mdi-flash-auto";
         public const string FlashOff = "mdi-flash-off";
+        public const string FlashRedEye = "mdi-flash-red-eye";
         public const string Flashlight = "mdi-flashlight";
         public const string FlashlightOff = "mdi-flashlight-off";
         public const string Flask = "mdi-flask";
@@ -678,6 +702,7 @@ namespace $rootnamespace$.Helpers
         public const string FolderOutline = "mdi-folder-outline";
         public const string FolderPlus = "mdi-folder-plus";
         public const string FolderRemove = "mdi-folder-remove";
+        public const string FolderStar = "mdi-folder-star";
         public const string FolderUpload = "mdi-folder-upload";
         public const string Food = "mdi-food";
         public const string FoodApple = "mdi-food-apple";
@@ -695,6 +720,7 @@ namespace $rootnamespace$.Helpers
         public const string FormatBold = "mdi-format-bold";
         public const string FormatClear = "mdi-format-clear";
         public const string FormatColorFill = "mdi-format-color-fill";
+        public const string FormatColorText = "mdi-format-color-text";
         public const string FormatFloatCenter = "mdi-format-float-center";
         public const string FormatFloatLeft = "mdi-format-float-left";
         public const string FormatFloatNone = "mdi-format-float-none";
@@ -724,6 +750,7 @@ namespace $rootnamespace$.Helpers
         public const string FormatPaint = "mdi-format-paint";
         public const string FormatParagraph = "mdi-format-paragraph";
         public const string FormatQuote = "mdi-format-quote";
+        public const string FormatSection = "mdi-format-section";
         public const string FormatSize = "mdi-format-size";
         public const string FormatStrikethrough = "mdi-format-strikethrough";
         public const string FormatStrikethroughVariant = "mdi-format-strikethrough-variant";
@@ -775,6 +802,7 @@ namespace $rootnamespace$.Helpers
         public const string Glasses = "mdi-glasses";
         public const string Gmail = "mdi-gmail";
         public const string Gnome = "mdi-gnome";
+        public const string Gondola = "mdi-gondola";
         public const string Google = "mdi-google";
         public const string GoogleCardboard = "mdi-google-cardboard";
         public const string GoogleChrome = "mdi-google-chrome";
@@ -796,6 +824,7 @@ namespace $rootnamespace$.Helpers
         public const string GooglePlusBox = "mdi-google-plus-box";
         public const string GoogleTranslate = "mdi-google-translate";
         public const string GoogleWallet = "mdi-google-wallet";
+        public const string Gradient = "mdi-gradient";
         public const string GreasePencil = "mdi-grease-pencil";
         public const string Grid = "mdi-grid";
         public const string GridOff = "mdi-grid-off";
@@ -804,6 +833,7 @@ namespace $rootnamespace$.Helpers
         public const string GuitarPick = "mdi-guitar-pick";
         public const string GuitarPickOutline = "mdi-guitar-pick-outline";
         public const string Hackernews = "mdi-hackernews";
+        public const string Hamburger = "mdi-hamburger";
         public const string HandPointingRight = "mdi-hand-pointing-right";
         public const string Hanger = "mdi-hanger";
         public const string Hangouts = "mdi-hangouts";
@@ -831,6 +861,7 @@ namespace $rootnamespace$.Helpers
         public const string Home = "mdi-home";
         public const string HomeMapMarker = "mdi-home-map-marker";
         public const string HomeModern = "mdi-home-modern";
+        public const string HomeOutline = "mdi-home-outline";
         public const string HomeVariant = "mdi-home-variant";
         public const string Hops = "mdi-hops";
         public const string Hospital = "mdi-hospital";
@@ -867,6 +898,8 @@ namespace $rootnamespace$.Helpers
         public const string ImageMultiple = "mdi-image-multiple";
         public const string Import = "mdi-import";
         public const string Inbox = "mdi-inbox";
+        public const string InboxArrowDown = "mdi-inbox-arrow-down";
+        public const string InboxArrowUp = "mdi-inbox-arrow-up";
         public const string Incognito = "mdi-incognito";
         public const string Information = "mdi-information";
         public const string InformationOutline = "mdi-information-outline";
@@ -875,6 +908,7 @@ namespace $rootnamespace$.Helpers
         public const string Instapaper = "mdi-instapaper";
         public const string InternetExplorer = "mdi-internet-explorer";
         public const string InvertColors = "mdi-invert-colors";
+        public const string Itunes = "mdi-itunes";
         public const string Jeepney = "mdi-jeepney";
         public const string Jira = "mdi-jira";
         public const string Jsfiddle = "mdi-jsfiddle";
@@ -985,6 +1019,8 @@ namespace $rootnamespace$.Helpers
         public const string MenuUp = "mdi-menu-up";
         public const string Message = "mdi-message";
         public const string MessageAlert = "mdi-message-alert";
+        public const string MessageBulleted = "mdi-message-bulleted";
+        public const string MessageBulletedOff = "mdi-message-bulleted-off";
         public const string MessageDraw = "mdi-message-draw";
         public const string MessageImage = "mdi-message-image";
         public const string MessageOutline = "mdi-message-outline";
@@ -1055,6 +1091,7 @@ namespace $rootnamespace$.Helpers
         public const string NotePlusOutline = "mdi-note-plus-outline";
         public const string NoteText = "mdi-note-text";
         public const string NotificationClearAll = "mdi-notification-clear-all";
+        public const string Nuke = "mdi-nuke";
         public const string Numeric = "mdi-numeric";
         public const string Numeric0Box = "mdi-numeric-0-box";
         public const string Numeric0BoxMultipleOutline = "mdi-numeric-0-box-multiple-outline";
@@ -1090,6 +1127,7 @@ namespace $rootnamespace$.Helpers
         public const string Numeric9PlusBoxMultipleOutline = "mdi-numeric-9-plus-box-multiple-outline";
         public const string Numeric9PlusBoxOutline = "mdi-numeric-9-plus-box-outline";
         public const string Nutrition = "mdi-nutrition";
+        public const string Oar = "mdi-oar";
         public const string Octagon = "mdi-octagon";
         public const string OctagonOutline = "mdi-octagon-outline";
         public const string Odnoklassniki = "mdi-odnoklassniki";
@@ -1105,7 +1143,6 @@ namespace $rootnamespace$.Helpers
         public const string Opera = "mdi-opera";
         public const string Ornament = "mdi-ornament";
         public const string OrnamentVariant = "mdi-ornament-variant";
-        public const string Outbox = "mdi-outbox";
         public const string Owl = "mdi-owl";
         public const string Package = "mdi-package";
         public const string PackageDown = "mdi-package-down";
@@ -1159,6 +1196,7 @@ namespace $rootnamespace$.Helpers
         public const string PhoneVoip = "mdi-phone-voip";
         public const string Pi = "mdi-pi";
         public const string PiBox = "mdi-pi-box";
+        public const string Piano = "mdi-piano";
         public const string Pig = "mdi-pig";
         public const string Pill = "mdi-pill";
         public const string Pin = "mdi-pin";
@@ -1200,6 +1238,8 @@ namespace $rootnamespace$.Helpers
         public const string Pound = "mdi-pound";
         public const string PoundBox = "mdi-pound-box";
         public const string Power = "mdi-power";
+        public const string PowerPlug = "mdi-power-plug";
+        public const string PowerPlugOff = "mdi-power-plug-off";
         public const string PowerSettings = "mdi-power-settings";
         public const string PowerSocket = "mdi-power-socket";
         public const string Presentation = "mdi-presentation";
@@ -1212,6 +1252,7 @@ namespace $rootnamespace$.Helpers
         public const string ProfessionalHexagon = "mdi-professional-hexagon";
         public const string Projector = "mdi-projector";
         public const string ProjectorScreen = "mdi-projector-screen";
+        public const string Publish = "mdi-publish";
         public const string Pulse = "mdi-pulse";
         public const string Puzzle = "mdi-puzzle";
         public const string Qqchat = "mdi-qqchat";
@@ -1251,6 +1292,8 @@ namespace $rootnamespace$.Helpers
         public const string Reload = "mdi-reload";
         public const string Remote = "mdi-remote";
         public const string RenameBox = "mdi-rename-box";
+        public const string ReorderHorizontal = "mdi-reorder-horizontal";
+        public const string ReorderVertical = "mdi-reorder-vertical";
         public const string Repeat = "mdi-repeat";
         public const string RepeatOff = "mdi-repeat-off";
         public const string RepeatOnce = "mdi-repeat-once";
@@ -1260,12 +1303,15 @@ namespace $rootnamespace$.Helpers
         public const string Reproduction = "mdi-reproduction";
         public const string ResizeBottomRight = "mdi-resize-bottom-right";
         public const string Responsive = "mdi-responsive";
+        public const string Restore = "mdi-restore";
         public const string Rewind = "mdi-rewind";
         public const string Ribbon = "mdi-ribbon";
         public const string Road = "mdi-road";
         public const string RoadVariant = "mdi-road-variant";
+        public const string Robot = "mdi-robot";
         public const string Rocket = "mdi-rocket";
         public const string Rotate3D = "mdi-rotate-3d";
+        public const string Rotate90 = "mdi-rotate-90";
         public const string RotateLeft = "mdi-rotate-left";
         public const string RotateLeftVariant = "mdi-rotate-left-variant";
         public const string RotateRight = "mdi-rotate-right";
@@ -1285,6 +1331,7 @@ namespace $rootnamespace$.Helpers
         public const string Scale = "mdi-scale";
         public const string ScaleBalance = "mdi-scale-balance";
         public const string ScaleBathroom = "mdi-scale-bathroom";
+        public const string Scanner = "mdi-scanner";
         public const string School = "mdi-school";
         public const string ScreenRotation = "mdi-screen-rotation";
         public const string ScreenRotationLock = "mdi-screen-rotation-lock";
@@ -1301,6 +1348,7 @@ namespace $rootnamespace$.Helpers
         public const string SeatReclineExtra = "mdi-seat-recline-extra";
         public const string SeatReclineNormal = "mdi-seat-recline-normal";
         public const string Security = "mdi-security";
+        public const string SecurityHome = "mdi-security-home";
         public const string SecurityNetwork = "mdi-security-network";
         public const string Select = "mdi-select";
         public const string SelectAll = "mdi-select-all";
@@ -1355,6 +1403,7 @@ namespace $rootnamespace$.Helpers
         public const string SkipPrevious = "mdi-skip-previous";
         public const string SkipPreviousCircle = "mdi-skip-previous-circle";
         public const string SkipPreviousCircleOutline = "mdi-skip-previous-circle-outline";
+        public const string Skull = "mdi-skull";
         public const string Skype = "mdi-skype";
         public const string SkypeBusiness = "mdi-skype-business";
         public const string Slack = "mdi-slack";
@@ -1366,6 +1415,7 @@ namespace $rootnamespace$.Helpers
         public const string Snowman = "mdi-snowman";
         public const string Soccer = "mdi-soccer";
         public const string Sofa = "mdi-sofa";
+        public const string Solid = "mdi-solid";
         public const string Sort = "mdi-sort";
         public const string SortAlphabetical = "mdi-sort-alphabetical";
         public const string SortAscending = "mdi-sort-ascending";
@@ -1413,6 +1463,7 @@ namespace $rootnamespace$.Helpers
         public const string SubdirectoryArrowLeft = "mdi-subdirectory-arrow-left";
         public const string SubdirectoryArrowRight = "mdi-subdirectory-arrow-right";
         public const string Subway = "mdi-subway";
+        public const string SubwayVariant = "mdi-subway-variant";
         public const string Sunglasses = "mdi-sunglasses";
         public const string SurroundSound = "mdi-surround-sound";
         public const string SwapHorizontal = "mdi-swap-horizontal";
@@ -1441,6 +1492,7 @@ namespace $rootnamespace$.Helpers
         public const string TabletIpad = "mdi-tablet-ipad";
         public const string Tag = "mdi-tag";
         public const string TagFaces = "mdi-tag-faces";
+        public const string TagHeart = "mdi-tag-heart";
         public const string TagMultiple = "mdi-tag-multiple";
         public const string TagOutline = "mdi-tag-outline";
         public const string TagTextOutline = "mdi-tag-text-outline";
@@ -1481,6 +1533,7 @@ namespace $rootnamespace$.Helpers
         public const string Timer3 = "mdi-timer-3";
         public const string TimerOff = "mdi-timer-off";
         public const string TimerSand = "mdi-timer-sand";
+        public const string TimerSandEmpty = "mdi-timer-sand-empty";
         public const string Timetable = "mdi-timetable";
         public const string ToggleSwitch = "mdi-toggle-switch";
         public const string ToggleSwitchOff = "mdi-toggle-switch-off";
@@ -1492,12 +1545,15 @@ namespace $rootnamespace$.Helpers
         public const string TooltipText = "mdi-tooltip-text";
         public const string Tooth = "mdi-tooth";
         public const string Tor = "mdi-tor";
+        public const string TowerBeach = "mdi-tower-beach";
+        public const string TowerFire = "mdi-tower-fire";
         public const string TrafficLight = "mdi-traffic-light";
         public const string Train = "mdi-train";
         public const string Tram = "mdi-tram";
         public const string Transcribe = "mdi-transcribe";
         public const string TranscribeClose = "mdi-transcribe-close";
         public const string Transfer = "mdi-transfer";
+        public const string TransitTransfer = "mdi-transit-transfer";
         public const string Translate = "mdi-translate";
         public const string Tree = "mdi-tree";
         public const string Trello = "mdi-trello";
@@ -1533,7 +1589,9 @@ namespace $rootnamespace$.Helpers
         public const string UnfoldLess = "mdi-unfold-less";
         public const string UnfoldMore = "mdi-unfold-more";
         public const string Ungroup = "mdi-ungroup";
+        public const string Unity = "mdi-unity";
         public const string Untappd = "mdi-untappd";
+        public const string Update = "mdi-update";
         public const string Upload = "mdi-upload";
         public const string Usb = "mdi-usb";
         public const string VectorArrangeAbove = "mdi-vector-arrange-above";
@@ -1597,6 +1655,7 @@ namespace $rootnamespace$.Helpers
         public const string Watch = "mdi-watch";
         public const string WatchExport = "mdi-watch-export";
         public const string WatchImport = "mdi-watch-import";
+        public const string WatchVibrate = "mdi-watch-vibrate";
         public const string Water = "mdi-water";
         public const string WaterOff = "mdi-water-off";
         public const string WaterPercent = "mdi-water-percent";
@@ -1606,11 +1665,13 @@ namespace $rootnamespace$.Helpers
         public const string WeatherFog = "mdi-weather-fog";
         public const string WeatherHail = "mdi-weather-hail";
         public const string WeatherLightning = "mdi-weather-lightning";
+        public const string WeatherLightningRainy = "mdi-weather-lightning-rainy";
         public const string WeatherNight = "mdi-weather-night";
         public const string WeatherPartlycloudy = "mdi-weather-partlycloudy";
         public const string WeatherPouring = "mdi-weather-pouring";
         public const string WeatherRainy = "mdi-weather-rainy";
         public const string WeatherSnowy = "mdi-weather-snowy";
+        public const string WeatherSnowyRainy = "mdi-weather-snowy-rainy";
         public const string WeatherSunny = "mdi-weather-sunny";
         public const string WeatherSunset = "mdi-weather-sunset";
         public const string WeatherSunsetDown = "mdi-weather-sunset-down";
@@ -1656,7 +1717,9 @@ namespace $rootnamespace$.Helpers
         public const string Xml = "mdi-xml";
         public const string Yeast = "mdi-yeast";
         public const string Yelp = "mdi-yelp";
+        public const string YinYang = "mdi-yin-yang";
         public const string YoutubePlay = "mdi-youtube-play";
         public const string ZipBox = "mdi-zip-box";
+        public const string Blank = "mdi-blank";
     }
 }
